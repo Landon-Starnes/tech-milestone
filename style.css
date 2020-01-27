@@ -1,0 +1,43 @@
+*{
+    color: black;
+}
+
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    color: #161E21;
+}
+
+h2{
+    font-size: 1.75em;
+}
+
+.twenties{
+    background-color: #07B0F2;
+    height: 550px;
+}
+
+.left-side{
+    width: 60%;
+    height: 550px;
+    float: left;
+}
+
+.right-side{
+    width: 40%;
+    height: 550px;
+    float: left;
+}
+
+.right-side img{
+    height: 550px;
+}
+
+.nineties{
+    background-image: url('hi.jpg');
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+}
+
